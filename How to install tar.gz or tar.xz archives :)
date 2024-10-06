@@ -1,0 +1,6 @@
+cd directory_where_the_tarball_is_located
+tar –zxvf package_name.tar.gz (or package_name.tgz, if it is a .tgz)
+cd unpacked_package_name ( or a carpet )
+./configure
+make
+make install
